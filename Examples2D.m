@@ -214,12 +214,12 @@ ShrinkAssign(YU3) = 0.75;
 % ShrinkAssign(YD1) = 0.75;
 % ShrinkAssign(YD2) = 0.75;
 % ShrinkAssign(YD3) = 0.75;
-% ShrinkAssign(XU1) = 0.78; % to compensate the GBars
-% ShrinkAssign(XU2) = 0.78;
-% ShrinkAssign(XU3) = 0.78;
-% ShrinkAssign(YU1) = 0.78;
-% ShrinkAssign(YU2) = 0.78;
-% ShrinkAssign(YU3) = 0.78;
+% ShrinkAssign(XU1) = 0.72; % to compensate the GBars
+% ShrinkAssign(XU2) = 0.72;
+% ShrinkAssign(XU3) = 0.72;
+% ShrinkAssign(YU1) = 0.72;
+% ShrinkAssign(YU2) = 0.72;
+% ShrinkAssign(YU3) = 0.72;
 
 % Cone
 % Ind_1 = 132;
